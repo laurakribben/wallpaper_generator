@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wallpaper {
+    height: 80vh;
+    /* For 100% screen height */
+    width: 90vw;
+    /* For 100% screen width */
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    margin-top: 5vh;
+}
+
+#buttons {}
+
+.btn {
+    border-width: 0.5px;
+    display: block;
+    margin: auto;
+    margin-top: 5vh;
+}
